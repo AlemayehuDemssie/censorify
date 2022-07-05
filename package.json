@@ -1,0 +1,11 @@
+{
+"author": "Alemayehu Mekonen",
+"name": "censorify",
+"version": "0.0.1",
+"description": "Cesnosor words out of text",
+"main": "cesnor.text",
+"dependencies": {},
+"engines": {
+    "node": "*"
+}
+}
